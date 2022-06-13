@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\bin\Debug\netcoreapp3.1\GeradorCliente.exe
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\bin\Debug\netcoreapp3.1\GeradorCliente.deps.json
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\bin\Debug\netcoreapp3.1\GeradorCliente.runtimeconfig.json
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\bin\Debug\netcoreapp3.1\GeradorCliente.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\bin\Debug\netcoreapp3.1\GeradorCliente.dll
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\bin\Debug\netcoreapp3.1\GeradorCliente.pdb
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\obj\Debug\netcoreapp3.1\GeradorCliente.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\obj\Debug\netcoreapp3.1\GeradorCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\obj\Debug\netcoreapp3.1\GeradorCliente.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\obj\Debug\netcoreapp3.1\GeradorCliente.AssemblyInfo.cs
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\obj\Debug\netcoreapp3.1\GeradorCliente.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\obj\Debug\netcoreapp3.1\GeradorCliente.dll
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\obj\Debug\netcoreapp3.1\GeradorCliente.pdb
+C:\Users\fabio\source\repos\GeradorCliente\GeradorCliente\obj\Debug\netcoreapp3.1\GeradorCliente.genruntimeconfig.cache

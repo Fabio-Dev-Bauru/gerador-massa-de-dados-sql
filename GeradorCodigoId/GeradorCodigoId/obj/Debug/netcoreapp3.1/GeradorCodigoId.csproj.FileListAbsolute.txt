@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\bin\Debug\netcoreapp3.1\GeradorCodigoId.exe
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\bin\Debug\netcoreapp3.1\GeradorCodigoId.deps.json
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\bin\Debug\netcoreapp3.1\GeradorCodigoId.runtimeconfig.json
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\bin\Debug\netcoreapp3.1\GeradorCodigoId.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\bin\Debug\netcoreapp3.1\GeradorCodigoId.dll
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\bin\Debug\netcoreapp3.1\GeradorCodigoId.pdb
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\obj\Debug\netcoreapp3.1\GeradorCodigoId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\obj\Debug\netcoreapp3.1\GeradorCodigoId.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\obj\Debug\netcoreapp3.1\GeradorCodigoId.AssemblyInfo.cs
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\obj\Debug\netcoreapp3.1\GeradorCodigoId.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\obj\Debug\netcoreapp3.1\GeradorCodigoId.dll
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\obj\Debug\netcoreapp3.1\GeradorCodigoId.pdb
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\obj\Debug\netcoreapp3.1\GeradorCodigoId.genruntimeconfig.cache
+C:\Users\fabio\source\repos\GeradorCodigoId\GeradorCodigoId\obj\Debug\netcoreapp3.1\GeradorCodigoId.csproj.AssemblyReference.cache
